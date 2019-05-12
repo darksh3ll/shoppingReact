@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Switch, Route} from 'react-router-dom';
-import Home from "../component/Home/Home";
+import Home from "../screens/Home/Home";
 class PublicRouter extends Component {
     render() {
         return (
